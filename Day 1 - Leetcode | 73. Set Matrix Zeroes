@@ -1,0 +1,47 @@
+Optimal Approach - Using 1st Row and 1st column to mark the cells zero
+
+Time complexity ~ O(m*n)
+Space complexity = o(1)
+
+________________________________________________________________________________________________________________________________________________________________
+
+class Solution {
+    public void setZeroes(int[][] matrix) {
+
+        int rows = matrix.length, cols = matrix[0].length, firstColHasZero = 1;
+
+        for (int i = 0; i < rows; i++) {
+            for (int j = 0; j < cols; j++) {
+                if (matrix[i][j] == 0) {
+                    // Setting row to 0
+                    matrix[i][0] = 0;
+
+                    // Setting col to 0 in firstColHasZero
+                    if (j == 0) {
+                        firstColHasZero = 0;
+                    } else {
+                        matrix[0][j] = 0;
+                    }
+                }
+            }
+        }
+
+        for (int i = 1; i < rows; i++) {
+            for (int j = 1; j < cols; j++) {
+                if (matrix[i][0] == 0 || matrix[0][j] == 0) {
+                    matrix[i][j] = 0;
+                }
+            }
+        }
+
+        if (matrix[0][0] == 0) {
+            for (int j = 0; j < cols; j++) matrix[0][j] = 0;
+        }
+
+        if (firstColHasZero == 0) {
+            for (int i = 0; i < rows; i++) matrix[i][0] = 0;
+        }
+    }
+}
+
+________________________________________________________________________________________________________________________________________________________________
