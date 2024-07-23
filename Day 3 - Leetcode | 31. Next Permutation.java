@@ -1,4 +1,4 @@
-## Intuition and Approach
+/* Intuition and Approach
 
 1. **Find the breaking point:** 
     - Traverse the array from right to left to find the first element that is smaller than the element next to it. This point is called the "breaking point".
@@ -13,9 +13,10 @@
 4. **Reverse the elements after the breaking point:**
     - Reverse the elements to the right of the breaking point to get the next smallest lexicographical order.
 
-## Code
+*/
 
-```java
+// Code
+
 class Solution {
     void reverse(int[] nums, int start, int end) {
         while (start < end) {
