@@ -1,28 +1,83 @@
-# 100 Days of Code: Striver's SDE Sheet Challenge
+# 💯 100 Days of Code: Striver's SDE Sheet Challenge🔥
 
-Welcome to my 100 Days of Code journey! 🚀
+Welcome to my **100 Days of Code** journey! This repository documents my daily progress in solving **Data Structures and Algorithms (DSA)** problems from **Striver's SDE Sheet** — a highly recommended guide for aspiring SDEs.
 
-This repository contains the Data Structures and Algorithms (DSA) questions and solutions that I am tackling daily as part of the 100 Days of Code challenge. I am following Striver's SDE Sheet, a comprehensive guide for aspiring software developers, to systematically improve my coding skills and problem-solving abilities.
+🎯 **Goal**: To build a strong foundation in DSA, improve problem-solving skills, and prepare for SDE interviews at top product-based companies like Google, Microsoft, and Amazon.
 
-What You'll Find Here:
+---
 
-- Daily Progress: Each day’s folder includes the problem statement, my solution, and an explanation.
+## 🧩 **What's Inside This Repository?**
 
-- Variety of Problems: From basic to advanced DSA problems, covering topics like arrays, linked lists, trees, graphs, dynamic programming, and more.
+📅 **Daily Progress**:  
+- Each folder represents a day of coding with:  
+  - ✅ Problem Statement  
+  - 🖋️ My Solution (Code + Explanation)  
+  - ⚡ Optimal Approaches  
 
-- Optimal Solutions: Focused on writing efficient and clean code.
+📚 **Topics Covered**:  
+- Arrays, Linked Lists, Trees, Graphs, Dynamic Programming, Recursion, Sorting, Searching, and more!
 
-- Learning Resources: Occasionally, I share insights, learning notes, and useful links related to the problem.
+🔎 **Learning Resources**:  
+- Occasionally, I share useful insights, notes, and reference links.
 
+---
 
-Why Follow This Journey?
+## 💡 **Why This Journey?**  
 
-- Consistency: Coding every day builds strong problem-solving habits.
+✔️ **Consistency**: Solving problems daily builds strong problem-solving habits.  
+✔️ **Skill Enhancement**: Gradual progression from easy to advanced problems helps master complex concepts.  
+✔️ **Community Learning**: I'm sharing my journey to inspire others and learn together!  
 
-- Skill Enhancement: Gradual increase in problem difficulty helps in understanding complex concepts.
+---
 
-- Community: Join me in this challenge, share your thoughts, and let’s learn together!
+## 📊 **Quick Stats**  
 
-Thanks for visiting! Have a nice day 🙂
+| **Category**        | **Count**     |  
+|---------------------|---------------|  
+| 📁 Total Problems  | 100           |  
+| 🖥️ Languages Used  | Java, Python  |  
+| 🏷️ Topics Covered  | 30+           |  
+| ⏳ Time Spent      | 100 Days      |  
 
+---
+
+## 🎯 **Key Highlights**  
+
+🚀 **Challenges Solved**:  
+- Advanced Dynamic Programming  
+- Binary Trees & Graph Traversals  
+- Linked Lists (Fast/Slow Pointer Techniques)  
+
+📈 **What I Gained**:  
+- Strong grasp of problem-solving techniques.  
+- Optimized code for time/space complexity.  
+- Real interview experience solving problems.
+
+---
+
+## 🔗 **Learning Resources**  
+
+- 🔗 [Striver's SDE Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)  
+- 🔗 [LeetCode](https://leetcode.com/)  
+- 🔗 [GeeksforGeeks](https://www.geeksforgeeks.org/)  
+
+---
+
+## 📢 **Future Plans**  
+
+🔄 Continue solving **LeetCode problems** regularly.  
+🔄 Participate in **coding contests** (Codeforces, CodeChef).  
+🔄 Start **Low-Level Design (LLD) and System Design** study.  
+
+---
+
+## 📬 **Let's Connect!**  
+
+Feel free to connect with me on:  
+- 💼 [LinkedIn](https://linkedin.com/in/Shreyanshsokal)  
+- 🏗️ [GitHub](https://github.com/ShreyanshSokal)
+
+---
+
+Thanks for visiting! Let's keep learning and growing together! ✨
 
